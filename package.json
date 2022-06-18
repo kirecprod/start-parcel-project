@@ -9,5 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "parcel": "^2.6.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.1"
   }
 }
